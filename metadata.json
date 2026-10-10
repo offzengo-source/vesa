@@ -1,0 +1,6 @@
+{
+  "name": "VESA - Streetwear Tunisien",
+  "description": "Marque de vêtements streetwear tunisienne contemporaine. Minimaliste, modeste et premium. Livraison partout en Tunisie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
